@@ -42,6 +42,8 @@ DAX was used to derive the total revenue and total order
 
 ![](Top_selling.png)
 
+The best and lesat selling pizza were derived using the Top N function in the filter
+
 ![](Revenue_by_category.png)
 
 ![](Daily_qtyandorder.png)
